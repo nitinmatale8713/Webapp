@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webapp", "Webapp\Webapp.csproj", "{45418187-42EE-4583-AE5B-292EE98EA9A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlApp", "SqlApp\SqlApp.csproj", "{18608914-D900-41F1-81EB-CC7073130031}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{45418187-42EE-4583-AE5B-292EE98EA9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45418187-42EE-4583-AE5B-292EE98EA9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45418187-42EE-4583-AE5B-292EE98EA9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18608914-D900-41F1-81EB-CC7073130031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18608914-D900-41F1-81EB-CC7073130031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18608914-D900-41F1-81EB-CC7073130031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18608914-D900-41F1-81EB-CC7073130031}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
